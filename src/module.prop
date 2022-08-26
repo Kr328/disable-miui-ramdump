@@ -1,0 +1,6 @@
+id=disable-ss-ramdump
+name=Disable MIUI Ramdump
+version=1.0
+versionCode=1
+author=Kr328
+description=Disable MIUI vendor.ss-ramdump service.
